@@ -1,0 +1,5 @@
+Include: Razer BlackShark V2 X ParametricEQ.txt
+GraphicEQ: 20 5; 80 0; 125 -6; 250 -6; 500 0; 1000 5; 2000 5; 3000 5; 4000 5; 5500 0; 5800 5; 8000 3; 8200 0; 10000 6; 12000 0; 16000 5
+# GraphicEQ: 50 6; 80 0; 125 -6; 250 -8; 500 0; 1000 0; 2000 0; 3000 0; 5000 0; 8500 0; 9000 0; 14500 0; 15000 0
+Include: AdvancedEQ.txt
+Include: Audio Balance.txt
