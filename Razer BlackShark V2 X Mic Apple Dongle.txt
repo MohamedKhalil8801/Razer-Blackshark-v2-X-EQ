@@ -1,5 +1,11 @@
-VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reagate-standalone.dll" SignIn 0 Thresh 0.0562341 Hold 0.08 Hipass 0.005 Pre-open 0.04 Attack 0.006 Release 0.02 Lowpass 1 AudIn 0 Dry 0 Wet 1 Noise 0 Hystrsis 0.398107 PreviewF 0 "RMS size" 0 Usemidi 0 MidiNote 0.543307 MidiChan 0 InvrtWet 0
-# VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reaeq-standalone.dll" ChunkData "IQAAAAQAAAAEAAAAAQAAAAAAAAAAAF5AAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwGJANsRrn8nz8T8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwIJABCb8+I4k9D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAUJRAiqvo6n2n5j8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAA=="
-VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reaeq-standalone.dll" ChunkData "IQAAAAQAAAAIAAAAAAAAAAAAAAAAAGlAEG7o98CZ9j8UrkfhehTiPwEIAAAAAQAAAAAAAAAAQI9AHjgcPLP+4T8AAAAAAAD0PwEIAAAAAQAAAAAAAAAAQJ9AeNT2dM0w5D8AAAAAAADwPwEDAAAAAQAAAAAAAAAAlMFAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAA=="
-VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reacomp-standalone.dll" Thresh 0.1 Hipass 0 SignIn 0 Ratio 0.020202 Release 0.02 Pre-comp 0 AutoMkUp 0 Attack 0.006 resvd 0 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 PreviewF 0 "RMS size" 0.005 Knee 0 AutoRel 0 ClsAttk 1 AntiAls 0
-# Preamp: 6 dB
+VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reagate-standalone.dll" SignIn 0 Thresh 0.0794328 Hold 0.08 Hipass 0.005 Pre-open 0.1 Attack 0.006 Release 0.02 Lowpass 1 AudIn 0 Dry 0 Wet 1 Noise 0 Hystrsis 0.398107 PreviewF 0 "RMS size" 0 Usemidi 0 MidiNote 0.543307 MidiChan 0 InvrtWet 0
+Preamp: -4 dB
+Filter: ON HP Fc 65 Hz
+Filter: ON PK Fc 300 Hz Gain 4 dB Q 0.7462
+Filter: ON PK Fc 1200 Hz Gain -5 dB Q 5.7636
+Filter: ON HS Fc 2000 Hz Gain -3 dB
+Filter: ON HSC 12 dB Fc 7500 Hz Gain 3 dB
+Filter: ON PK Fc 9000 Hz Gain -5 dB Q 2.871
+VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reacomp-standalone.dll" SignIn 0 Thresh 0.125893 Hipass 0 Pre-comp 0 Release 0.02 Ratio 0.020202 AutoMkUp 0 Attack 0.006 resvd 0 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 PreviewF 0 "RMS size" 0.005 Knee 0 AutoRel 0 ClsAttk 1 AntiAls 0
+Channel: R
+Preamp: -14 dB
