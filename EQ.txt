@@ -7,9 +7,13 @@ GraphicEQ: 20 8; 40 7; 100 2; 151 1; 200 0; 250 -1; 350 -1; 500 4; 800 2; 1000 1
 Filter: ON HS Fc 6000 Hz Gain -1 dB
 Filter: ON HS Fc 7000 Hz Gain -6 dB
 Filter: ON PK Fc 800 Hz Gain 1 dB Q 5
+Filter: ON PK Fc 3000 Hz Gain -2 dB Q 5
+Filter: ON PK Fc 4500 Hz Gain -2 dB Q 5
+Filter: ON PK Fc 7000 Hz Gain -2 dB Q 5
 Filter: ON PK Fc 5300 Hz Gain -2 dB Q 10
-# Filter: ON PK Fc 2600 Hz Gain 1 dB Q 2
 Filter: ON PK Fc 7600 Hz Gain -1.43 dB Q 10
 Filter: ON PK Fc 20 Hz Gain 3 dB Q 1
-Include: AdvancedEQ.txt
+Filter: ON PK Fc 4000 Hz Gain 2 dB Q 1.5096
+Filter: ON PK Fc 5000 Hz Gain 5 dB Q 2
+Filter: ON HS Fc 9000 Hz Gain 3 dB
 Include: Audio Balance.txt
