@@ -1,2 +1,2 @@
 Channel: L
-Preamp: -3 dB
+Preamp: -1.37 dB
