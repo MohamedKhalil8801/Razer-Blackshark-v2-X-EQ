@@ -1,5 +1,6 @@
 Include: Razer BlackShark V2 X ParametricEQ.txt
 Filter: ON LSC Fc 60 Hz Gain 5 dB Q 2.0363
+Filter: ON PK Fc 350 Hz Gain -1 dB Q 10
 Filter: ON PK Fc 200 Hz Gain -3 dB Q 2
 Filter: ON PK Fc 12716 Hz Gain 6.5 dB Q 2
 Filter: ON PK Fc 2800 Hz Gain 2 dB Q 2
@@ -27,4 +28,3 @@ Filter: ON PK Fc 7600 Hz Gain -1.43 dB Q 10
 Filter: ON PK Fc 4000 Hz Gain 2 dB Q 1.5096
 Filter: ON PK Fc 5000 Hz Gain 5 dB Q 2
 Filter: ON HS Fc 9000 Hz Gain 3 dB
-Include: Audio Balance.txt
