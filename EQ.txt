@@ -1,51 +1,64 @@
-Include: Razer BlackShark V2 X ParametricEQ.txt
-Filter: ON PK Fc 50 Hz Gain -2 dB Q 4
-Filter: ON LSC Fc 60 Hz Gain 2 dB Q 2.0363
-Filter: ON PK Fc 67.93 Hz Gain 1 dB Q 1.8317
-Filter: ON PK Fc 71.29 Hz Gain -2 dB Q 2
-Filter: ON PK Fc 110.93 Hz Gain -1 dB Q 1.8317
-Filter: ON PK Fc 200 Hz Gain -3 dB Q 2
-Filter: ON PK Fc 1800 Hz Gain -2 dB Q 5
-Filter: ON PK Fc 1490 Hz Gain -2 dB Q 5
-Filter: ON PK Fc 12716 Hz Gain 6.5 dB Q 2
-Filter: ON PK Fc 2800 Hz Gain 2 dB Q 2
-Filter: ON PK Fc 6300 Hz Gain 2 dB Q 10
-Filter: ON PK Fc 5500 Hz Gain 3 dB Q 10
-Filter: ON PK Fc 5000 Hz Gain -4 dB Q 10
-Filter: ON HS Fc 6000 Hz Gain -0.2 dB
-Filter: ON PK Fc 8500 Hz Gain 1.5 dB Q 2.9844
-Filter: ON PK Fc 10000 Hz Gain -3 dB Q 10
-Filter: ON HS Fc 8500 Hz Gain -2 dB
-Filter: ON HSC Fc 13122.9 Hz Gain 4 dB Q 1.559
-Filter: ON PK Fc 12000 Hz Gain -1.8 dB Q 10
-Filter: ON PK Fc 12500 Hz Gain -3.1 dB Q 0.7531
-Filter: ON PK Fc 6012.15 Hz Gain -1 dB Q 10
-Filter: ON PK Fc 6750 Hz Gain -1.56 dB Q 10
-Filter: ON PK Fc 13397.7 Hz Gain -1 dB Q 10
-Filter: ON PK Fc 8790.83 Hz Gain -1 dB Q 10
-Filter: ON PK Fc 899.56 Hz Gain -1 dB Q 10
-Filter: ON PK Fc 2000 Hz Gain -1 dB Q 10
-Filter: ON PK Fc 3000 Hz Gain -2 dB Q 4
-Filter: ON PK Fc 2500 Hz Gain -3 dB Q 4
-GraphicEQ: 20 5; 40 0; 60 0; 80 0; 100 0; 151 0; 200 -0.5; 250 -4.3; 300 -1.2; 400 -1.2; 500 -1.3; 600 -1; 700 -4; 800 -1.6; 900 0; 1000 0; 1200 0; 1300 0; 1500 6; 1800 3.6; 2000 -4.5; 2500 -7; 2800 -5.5; 3000 -5.5; 3500 -5.5; 4000 -4; 4600 -4; 5000 0; 5400 0; 5600 1.1; 5800 2.3; 6000 3.4; 7000 -8.1; 7200 -7; 7700 -6.3; 8000 -3.5; 9000 0; 10000 5; 11000 2; 12000 -0.5; 13000 -3; 14000 -3; 20000 0
-Filter: ON PK Fc 3097.63 Hz Gain 2.5 dB Q 6.3806
-GraphicEQ: 1300 0; 1400 2.5; 1500 -0.5; 1800 0; 1900 0; 2000 0; 2100 0; 2500 2; 2800 1; 3535 0
-GraphicEQ: 60 0; 70 2; 1000 2; 1100 0
-GraphicEQ: 200 0; 250 0; 300 -6; 400 -6; 500 0; 600 -3; 700 0; 800 0
-GraphicEQ: 1300 0; 1400 -5; 1900 -5; 2000 0
-# GraphicEQ: 20 5; 40 0; 60 0; 80 0; 100 0; 151 0; 200 -0.5; 250 -4.3; 300 -1.2; 400 -1.2; 500 -1.3; 600 -1; 700 -4; 800 -1.6; 900 0; 1000 0; 1200 0; 1300 0; 1500 6; 1800 3.6; 2000 -4.5; 2500 -7; 2800 -5.5; 3000 -5.5; 3500 -5.5; 4000 -4; 4600 -4; 5000 0; 5400 0; 5600 1.1; 5800 2.3; 6000 3.4; 7000 -8.1; 7200 -7; 7700 -6.3; 8000 -3.5; 9000 0; 10000 5; 11000 0; 12000 -3; 13000 -7.6; 14000 -1; 20000 0
-GraphicEQ: 5000 0; 5500 -3; 8000 -3; 8500 0
-Filter: ON HS Fc 6000 Hz Gain -1 dB
-Filter: ON HS Fc 7000 Hz Gain -6 dB
-Filter: ON PK Fc 850 Hz Gain -2 dB Q 5
-Filter: ON PK Fc 500 Hz Gain -2.9 dB Q 5
-Filter: ON PK Fc 320 Hz Gain -2.6 dB Q 5
-Filter: ON PK Fc 1000 Hz Gain -2 dB Q 5
-Filter: ON PK Fc 3000 Hz Gain -2 dB Q 5
-Filter: ON PK Fc 4500 Hz Gain -2 dB Q 5
-Filter: ON PK Fc 7000 Hz Gain -2 dB Q 5
-Filter: ON PK Fc 5300 Hz Gain -2 dB Q 10
-Filter: ON PK Fc 7600 Hz Gain -1 dB Q 10
-Filter: ON PK Fc 4000 Hz Gain 2 dB Q 1.5096
-Filter: ON PK Fc 5000 Hz Gain 5 dB Q 2
-Filter: ON HS Fc 9000 Hz Gain 3 dB
+Preamp: 0.5 dB
+Filter: ON PK Fc 14656.5 Hz Gain -0.8 dB Q 3
+Filter: ON PK Fc 15800 Hz Gain -0.1 dB Q 2
+Filter: ON PK Fc 12128 Hz Gain 0.1 dB Q 25
+Filter: ON PK Fc 6500 Hz Gain -1 dB Q 10
+Filter: ON HS Fc 11000 Hz Gain -1.1 dB
+GraphicEQ: 11000 0; 12000 0.4; 12709 0.5; 13000 0.1
+Filter: ON PK Fc 11000 Hz Gain -0.4 dB Q 6
+Filter: ON PK Fc 1219.07 Hz Gain -0.1 dB Q 20
+Filter: ON PK Fc 1219.07 Hz Gain -0.4 dB Q 4
+Filter: ON PK Fc 1900 Hz Gain -0.5 dB Q 8
+Filter: ON PK Fc 1450 Hz Gain -0.5 dB Q 8
+Filter: ON PK Fc 1675.06 Hz Gain -0.8 dB Q 5
+Filter: ON PK Fc 11125 Hz Gain -0.8 dB Q 4
+Filter: ON PK Fc 10000 Hz Gain -1 dB Q 6
+Filter: ON PK Fc 2642.59 Hz Gain -1 dB Q 10
+Filter: ON PK Fc 500 Hz Gain -0.3 dB Q 4
+Filter: ON PK Fc 12500 Hz Gain -0.5 dB Q 10
+Filter: ON PK Fc 2170.87 Hz Gain -0.45 dB Q 6
+Filter: ON PK Fc 1200 Hz Gain -0.2 dB Q 6
+Filter: ON PK Fc 7000 Hz Gain -0.5 dB Q 10
+Filter: ON PK Fc 9500 Hz Gain -1 dB Q 4
+GraphicEQ: 26 -0.5; 50.048 -1.8; 70 -1; 143.871 -2.5; 800 -1; 900 0
+Filter: ON PK Fc 260 Hz Gain -0.2 dB Q 2
+Filter: ON PK Fc 260 Hz Gain 0.2 dB Q 8
+Filter: ON PK Fc 263 Hz Gain 0.2 dB Q 33
+Filter: ON PK Fc 687.12 Hz Gain -0.2 dB Q 4
+Filter: ON PK Fc 450 Hz Gain -0.3 dB Q 4
+Filter: ON PK Fc 1000 Hz Gain -0.5 dB Q 0.6
+Filter: ON PK Fc 2000 Hz Gain -0.3 dB Q 4
+Filter: ON PK Fc 1000 Hz Gain -9 dB Q 6
+Filter: ON PK Fc 50 Hz Gain 0.2 dB Q 6
+Filter: ON PK Fc 189 Hz Gain -0.5 dB Q 10
+Filter: ON PK Fc 92 Hz Gain -0.3 dB Q 6
+Filter: ON PK Fc 120 Hz Gain -0.4 dB Q 10
+Filter: ON PK Fc 1083.54 Hz Gain -0.1 dB Q 25
+Filter: ON PK Fc 950.67 Hz Gain -0.1 dB Q 10
+Filter: ON PK Fc 833.74 Hz Gain -0.1 dB Q 33.3333
+Filter: ON PK Fc 1080 Hz Gain -0.05 dB Q 9.4323
+Filter: ON PK Fc 1005 Hz Gain -0.25 dB Q 33.3333
+Filter: ON PK Fc 2223.46 Hz Gain -0.2 dB Q 33.3333
+GraphicEQ: 520 0; 600 0.6; 800 0.6; 880 0.5; 1000 0; 1030 0; 1200 0; 1340 -0.4; 2000 -0.4; 2350 0
+Filter: ON PK Fc 342 Hz Gain -0.8 dB Q 2
+Filter: ON PK Fc 7244.86 Hz Gain -1 dB Q 10
+Filter: ON PK Fc 5128.97 Hz Gain -0.4 dB Q 10
+Filter: ON PK Fc 4256.28 Hz Gain -1.5 dB Q 2
+Filter: ON PK Fc 7500 Hz Gain -0.5 dB Q 20
+Filter: ON PK Fc 7871 Hz Gain 0.5 dB Q 20
+# Filter: ON PK Fc 10000 Hz Gain 0.1 dB Q 10
+GraphicEQ: 950 0; 1004.4 -0.2; 1136.7 -1.8; 1286.4 -2.6; 1597.3 -3.8; 2131.8 -2.6; 2400 0
+Filter: ON PK Fc 88 Hz Gain -0.4 dB Q 15
+Filter: ON PK Fc 68 Hz Gain -0.4 dB Q 20
+Filter: ON PK Fc 60 Hz Gain 0.2 dB Q 20
+Filter: ON PK Fc 60 Hz Gain -2 dB Q 4
+Filter: ON PK Fc 10500 Hz Gain -0.5 dB Q 6
+GraphicEQ: 20 -0.5; 21 -0.6; 22 -0.7; 23 -0.9; 24 -1.1; 26 -1.5; 27 -1.7; 29 -2.2; 30 -2.5; 32 -3.2; 34 -3.9; 36 -4.7; 38 -5.5; 40 -6.3; 43 -7.5; 45 -8; 48 -8.6; 50 -8.8; 53 -9; 56 -9; 59 -9.2; 63 -9.7; 66 -10.2; 70 -11; 74 -11.5; 78 -11.5; 83 -11.1; 87 -10.7; 92 -10.5; 97 -10.7; 103 -11.1; 109 -11.3; 115 -11.2; 121 -11.2; 128 -11.4; 136 -11.6; 143 -11.1; 151 -10.7; 160 -11.2; 169 -12; 178 -11.7; 188 -11.3; 199 -11.5; 210 -11.6; 222 -11.5; 235 -11.5; 248 -11.1; 262 -11.8; 277 -11.3; 292 -11.3; 309 -11.2; 326 -11.3; 345 -11.2; 364 -11.3; 385 -11.2; 406 -11.3; 429 -11.1; 453 -11.2; 479 -11; 506 -11; 534 -11.2; 565 -11.2; 596 -11.6; 630 -11.6; 665 -11.9; 703 -11.7; 743 -12; 784 -12.1; 829 -12.3; 875 -12.8; 924 -13; 977 -13.3; 1032 -12.9; 1090 -11.9; 1151 -11.1; 1216 -10.4; 1284 -10.1; 1357 -9.8; 1433 -9.4; 1514 -9.1; 1599 -8.9; 1689 -8.9; 1784 -9; 1885 -9.2; 1991 -9.6; 2103 -10.1; 2221 -11; 2347 -12.9; 2479 -13.1; 2618 -11.2; 2766 -10.5; 2921 -9.7; 3086 -8.6; 3260 -7.8; 3443 -7.5; 3637 -7.1; 3842 -6.8; 4058 -6.7; 4287 -6.7; 4528 -6.8; 4783 -6.9; 5052 -7; 5337 -7.3; 5637 -7.7; 5955 -7.9; 6290 -8.3; 6644 -16; 7018 -21.7; 7414 -21.8; 7831 -20.1; 8272 -17; 8738 -13.8; 9230 -11.8; 9749 -10; 10298 -9.4; 10878 -9.6; 11490 -10.2; 12137 -11; 12821 -11.1; 13543 -10.8; 14305 -10.3; 15110 -10.2; 15961 -10.5; 16860 -10.8; 17809 -10.9; 18812 -10.9; 19871 -10.8
+Filter: ON PK Fc 1184.07 Hz Gain -0.4 dB Q 8
+Filter: ON PK Fc 480 Hz Gain -0.1 dB Q 15
+Filter: ON PK Fc 400 Hz Gain -0.5 dB Q 1
+Filter: ON PK Fc 173.79 Hz Gain 0.5 dB Q 10
+Filter: ON PK Fc 248.9 Hz Gain -0.6 dB Q 18
+Filter: ON PK Fc 153.47 Hz Gain -0.8 dB Q 8
+Filter: ON PK Fc 95 Hz Gain -1 dB Q 4
+GraphicEQ: 400 0; 483.421 -0.3; 500 -0.6; 521 -0.7; 566.8 -1.1; 901.364 -1.1; 1000 0
