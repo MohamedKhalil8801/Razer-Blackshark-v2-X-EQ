@@ -1,0 +1,33 @@
+Filter Settings file
+
+Room EQ V5.30.9
+Dated: Mar 9, 2024 2:54:15 PM
+
+Notes:
+
+Equaliser: Generic
+R Mar 9
+Preamp: 10.7 dB
+Preamp: -1.2 dB
+Include: razer 20-3-2024.txt
+Filter: ON LS Fc 20 Hz Gain -9.3 dB
+Filter: ON LS Fc 50 Hz Gain -6 dB
+Filter: ON PK Fc 20.55 Hz Gain -3.1 dB Q 4.121
+Filter: ON PK Fc 31.3 Hz Gain -3.4 dB Q 2.04
+Filter  3: ON  PK       Fc   47.15 Hz  Gain  -4.70 dB  Q  2.006
+Filter  4: ON  PK       Fc   67.50 Hz  Gain  -5.10 dB  Q  2.000
+Filter  5: ON  PK       Fc   97.00 Hz  Gain  -6.40 dB  Q  2.001
+Filter  6: ON  PK       Fc   142.0 Hz  Gain  -7.50 dB  Q  2.001
+Filter  7: ON  PK       Fc   199.5 Hz  Gain  -7.30 dB  Q  2.000
+Filter  8: ON  PK       Fc   342.0 Hz  Gain  -2.10 dB  Q  1.012
+Filter  9: ON  PK       Fc   492.0 Hz  Gain  -6.70 dB  Q  1.002
+Filter 10: ON  PK       Fc   869.0 Hz  Gain  -6.90 dB  Q  1.054
+Filter 11: ON  PK       Fc    1522 Hz  Gain  -3.80 dB  Q  3.252
+Filter 12: ON  PK       Fc    2898 Hz  Gain  -3.60 dB  Q  5.146
+Filter 13: ON  PK       Fc    3169 Hz  Gain  -0.60 dB  Q  4.966
+Filter 14: ON  PK       Fc    6604 Hz  Gain  -9.50 dB  Q  3.720
+Filter 15: ON  PK       Fc    7076 Hz  Gain -10.30 dB  Q  3.627
+Filter 16: ON  PK       Fc    9905 Hz  Gain  -0.50 dB  Q  2.946
+Filter 17: ON  PK       Fc   12532 Hz  Gain  -8.60 dB  Q  3.000
+Channel: L
+Include: razer left balance.txt
