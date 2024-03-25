@@ -1,4 +1,8 @@
 # 1
+Filter: ON PK Fc 6880 Hz Gain -7 dB Q 10
+Filter: ON PK Fc 7345.65 Hz Gain 5 dB Q 10
+Filter: ON PK Fc 6668.53 Hz Gain 5 dB Q 10
+GraphicEQ: 14700 0; 30000 -23.35
 Filter: ON PK Fc 14907.1 Hz Gain 12 dB Q 3.2
 Filter: ON PK Fc 14656.5 Hz Gain -13 dB Q 3
 Filter: ON PK Fc 20000 Hz Gain -7 dB Q 1.3
