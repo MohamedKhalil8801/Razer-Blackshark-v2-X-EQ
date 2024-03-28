@@ -7,6 +7,7 @@ Notes:
 
 Equaliser: Generic
 L 2
+Include: razer left balance fix.txt
 Filter  1: ON  PK       Fc   12.15 Hz  Gain  -5.60 dB  Q  2.559
 Filter  2: ON  PK       Fc   18.85 Hz  Gain  -4.10 dB  Q  4.866
 Filter  3: ON  PK       Fc   29.65 Hz  Gain  -2.30 dB  Q  5.427
