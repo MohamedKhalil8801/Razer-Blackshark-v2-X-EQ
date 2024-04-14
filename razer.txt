@@ -8,7 +8,9 @@ Notes:
 Equaliser: Generic
 R Mar 9
 Preamp: 10.7 dB
+Preamp: -3.2 dB
 Preamp: -0.6 dB
+Include: razer treble fix.txt
 Include: razer 20-3-2024.txt
 Filter: ON LS Fc 20 Hz Gain -9.3 dB
 Filter: ON LS Fc 50 Hz Gain -6 dB
