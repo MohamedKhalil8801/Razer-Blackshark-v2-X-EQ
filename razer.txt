@@ -10,6 +10,8 @@ R Mar 9
 Preamp: 10.7 dB
 Preamp: -3.2 dB
 Preamp: -0.6 dB
+GraphicEQ: 20 4.67; 80 0; 200 0; 1000 0; 2000 -1; 4000 1; 8000 0; 12000 -1; 20000 0
+GraphicEQ: 3800 0; 4689.72 -6; 5017.22 -7.28307; 5588.4 -7.9; 5822.23 -7.5; 6017.98 -5.86149; 6200 0
 Include: razer treble fix.txt
 Include: razer 20-3-2024.txt
 Filter: ON LS Fc 20 Hz Gain -9.3 dB
