@@ -7,6 +7,10 @@ Notes:
 
 Equaliser: Generic
 R Mar 9
+Preamp: -2.81 dB
+Filter: ON LS Fc 11 Hz Gain 4.51 dB
+GraphicEQ: 6280 0; 6600 5.5; 8800 7.5; 10500 0
+Filter: ON PK Fc 12800 Hz Gain 9.7 dB Q 10
 Preamp: 10.7 dB
 Preamp: -3.2 dB
 Preamp: -0.6 dB
